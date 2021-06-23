@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 # Rails_hosting_test
+# Rails_hosting_test
